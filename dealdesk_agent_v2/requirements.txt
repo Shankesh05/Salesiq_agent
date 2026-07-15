@@ -1,0 +1,14 @@
+google-adk
+google-genai
+google-generativeai
+google-cloud-firestore
+google-cloud-storage
+google-cloud-aiplatform
+firebase-admin
+google-api-python-client
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+python-dotenv
+pydantic
+requests
