@@ -200,34 +200,6 @@ Responsible for:
 
 ---
 
-# 🚀 Getting Started
-
-Clone the repository
-
-```bash
-git clone https://github.com/Shankesh05/Salesiq_agent.git
-```
-
-Move into the project
-
-```bash
-cd Salesiq_agent
-```
-
-Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the application
-
-```bash
-python run.py
-```
-
----
-
 # 📖 Learning Outcomes
 
 During this project, I gained hands-on experience in:
